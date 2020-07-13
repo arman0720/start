@@ -1,0 +1,2 @@
+git remote add origin https://github.com/arman0720/start.git
+git push -u origin master
